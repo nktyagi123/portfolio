@@ -1,11 +1,11 @@
 var typed = new Typed('.typing', {
-    strings: ['Data Scientist', 'Data Scientist', 'Data Scientist'],
+    strings: ['Data Scientist - GenAI', 'Data Scientist - GenAI', 'Data Scientist - GenAI'],
     typeSpeed: 100,
     BackSpeed: 60,
     loop: true
 });
 var typed = new Typed('.typing1', {
-    strings: ['Data Scientist', 'Data Scientist', 'Data Scientist'],
+    strings: ['Data Scientist - GenAI', 'Data Scientist - GenAI', 'Data Scientist - GenAI'],
     typeSpeed: 100,
     BackSpeed: 60,
     loop: true
